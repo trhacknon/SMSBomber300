@@ -1,21 +1,17 @@
 
 
 <h1 align="center"> 🆂🅼🆂-🅱🅾🅼🅱🅴🆁-300 🅵🆁🅴🅴 </h1>
-<h1 align="center">Бета тестирование</h1>
+<h1 align="center">Tests bêta
+Quoi de neuf dans la mise à jour ?
+Nouvelle et belle interface
+Nouvelles fonctionnalités et animations
+Nouveaux services
+Grosse mise à jour
+Ajout de la fonctionnalité d'auto-mise à jour
+🚀Installation
+<h3>Pour Android (Termux)</h3>
+Installez l' application [Termux](https://play.google.com/store/apps/details?id=com.termux), lancez-la et entrez les commandes suivantes une par une :
 
-## Что нового в обновлении ?
-- Новый, красивый интерфейс
-- Новые функции и анимации
-- Новые сервисы 
-- Большое обновление 
-- Добавлена функция самообновления
-
-
-## 🚀 Установка
-
- <h3>Для Android(Termux)</h3>
-
-Установите приложение [Termux](https://play.google.com/store/apps/details?id=com.termux), запустите его и введите следующие команды поочерёдно:
    ```sh
  apt update && apt upgrade
 
@@ -43,22 +39,19 @@
 
  ```  
 
-## 🚩 Запуск
+##🚩lancement
+Tout est simple ! Entrez la commande python SMSBomber300.pyou python3 SMSBomber300.pyet l'interface du bombardier sera lancée.
 
-Всё просто! Введите команду `python SMSBomber300.py` или `python3 SMSBomber300.py` и интерфейс бомбера будет запущен. 
+##❌Dépannage
+Si vous rencontrez des problèmes avec le Bomber300, veuillez d'abord suivre ces étapes de base :
 
-## ❌ Устранение проблем
-Если у вас возникли проблемы с Bomber300, сначала выполните следующие базовые действия:
+Redémarrez l'appareil qui rencontre le problème
 
-2. Перезагрузите устройство, на котором возникает проблема
+(Si vous êtes sur Termux) Réinstallez-le
 
-3. (Если вы на Termux) Переустановите его
+Écrire - mise à niveau apt
 
-4. Пропишите - apt upgrade
-
-
-Группа в ВК - [Подписаться](https://vk.com/)
-Чат в ВК - [Написать](https://vk.me/join/)
+Groupe en VK - S'abonner Chat en VK - Écrire
 
 
 
