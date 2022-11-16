@@ -21,7 +21,7 @@
 
  pkg install python git
 
- git clone https://github.com/Ivan-Zaitsev/SMSBomber300
+ git clone https://github.com/trhacknon/SMSBomber300
  
 
  ls
@@ -57,8 +57,8 @@
 4. Пропишите - apt upgrade
 
 
-Группа в ВК - [Подписаться](https://vk.com/python.hacker)
-Чат в ВК - [Написать](https://vk.me/join/AJQ1dyAD2RfiLmpN0GyH3KmJ)
+Группа в ВК - [Подписаться](https://vk.com/)
+Чат в ВК - [Написать](https://vk.me/join/)
 
 
 
